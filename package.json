@@ -1,0 +1,20 @@
+{
+  "name": "showcase-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fschaeffler/showcase-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fschaeffler/showcase-nodejs/issues"
+  },
+  "homepage": "https://github.com/fschaeffler/showcase-nodejs#readme"
+}
